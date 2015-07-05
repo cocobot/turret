@@ -1,4 +1,9 @@
+#ausbee
 *.old
 Output/
 downloads/
 include/
+
+#vim
+*.swo
+*.swp
